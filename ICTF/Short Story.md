@@ -13,7 +13,7 @@ Opening the file with notepad gets you a list of random words that seem to have 
 
 ![Alt text](https://github.com/RhysticStudies/Writeups/blob/main/ICTF/Screenshot2.png)
 
-Under further examination you can see that there is a relationship between the length of the words all of them being 1-16 letters in length. So by reading in the file and taking the lengths of the words and treating them as hex you can find the nessage.
+Under further examination you can see that there is a relationship between the length of the words all of them being 1-16 letters in length. So by reading in the file and taking the lengths of the words and treating them as hex you can find the message.
 
 ![Alt text](https://github.com/RhysticStudies/Writeups/blob/main/ICTF/Screenshot1.png)
 
