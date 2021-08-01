@@ -1,7 +1,7 @@
-CTF Name: Imaginary CTF
-Problem Name: Short Story
-Date: 7/31/21 
-Problem Category: Forensics
+CTF Name: Imaginary CTF  
+Problem Name: Short Story  
+Date: 7/31/21   
+Problem Category: Forensics  
 
 
 When you first open the problem it gives you a .txt file to download where the flag is hidden.
