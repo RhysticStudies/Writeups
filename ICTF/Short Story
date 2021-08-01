@@ -5,7 +5,7 @@ Problem Category: Forensics
 
 
 When you first open the problem it gives you a .txt file to download where the flag is hidden.
-![Alt text](/Screenshot1.png?raw=true "Optional Title")
+![Alt text](./Screenshot1.png?raw=true "Optional Title")
 
 Opening the file with notepad gets you a list of random words that seem to have nothing in common. However, given the problem is Forensics we're likely dealing with Stegonargraphy. The information then should be hidden in the words somehow.
 
