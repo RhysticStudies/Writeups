@@ -9,7 +9,7 @@ When you first open the problem it gives you a .txt file to download where the f
 
 ![Alt text](https://github.com/RhysticStudies/Writeups/blob/main/ICTF/Screenshot3.png)
 
-Opening the file with notepad gets you a list of random words that seem to have nothing in common. However, given the problem is Forensics we're likely dealing with Stegonargraphy. The information then should be hidden in the words somehow.
+Opening the file with notepad gets you a list of random words that seem to have nothing in common. However, given the problem is Forensics we're likely dealing with steganography. The information then should be hidden in the words somehow.
 
 ![Alt text](https://github.com/RhysticStudies/Writeups/blob/main/ICTF/Screenshot2.png)
 
