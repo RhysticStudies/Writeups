@@ -20,8 +20,12 @@ Opening up the file using a hex editor you can see that the file actually contai
 
 Using Find Replace and changing the first character with 0s you get,
 
-![Alt text](https://github.com/RhysticStudies/Writeups/blob/main/ICTF/Screenshot4.png)
+![Alt text](https://github.com/RhysticStudies/Writeups/blob/main/PicoCTF/WhitePages/Screenshot4.png)
 
-Then converting that to words using cyber chef gives you the flag.
+REplacing the other character with 1 you get,
+
+![Alt text](https://github.com/RhysticStudies/Writeups/blob/main/PicoCTF/WhitePages/Screenshot5.png)
+
+That's a Binary number. Converting that to Ascii you get the flag.
 
 ictf{A_sh0rt_st0ry_is_4_piece_of_pr0s3_f1ct10n_that_typ1cally_can_b3_read_in_one_sitting_[...]}
