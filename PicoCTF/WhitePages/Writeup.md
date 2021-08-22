@@ -10,7 +10,7 @@ When you first open the problem it gives you a .txt file to download where the f
 
 ![Alt text](https://github.com/RhysticStudies/Writeups/blob/main/PicoCTF/WhitePages/Screenshot1.png)
 
-Opening the file with notepad gets you a list of random words that seem to have nothing in common. However, given the problem is Forensics we're likely dealing with steganography. The information then should be hidden in the words somehow.
+Opening the file with notepad gets you a seemingly blank notepad, however you can highlight text on it.
 
 ![Alt text](https://github.com/RhysticStudies/Writeups/blob/main//PicoCTF/WhitePages/Screenshot2.png)
 
