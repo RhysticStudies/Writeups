@@ -28,4 +28,6 @@ REplacing the other character with 1 you get,
 
 That's a Binary number. Converting that to Ascii you get the flag.
 
-ictf{A_sh0rt_st0ry_is_4_piece_of_pr0s3_f1ct10n_that_typ1cally_can_b3_read_in_one_sitting_[...]}
+![Alt text](https://github.com/RhysticStudies/Writeups/blob/main/PicoCTF/WhitePages/Screenshot6.png)
+
+picoCTF{not_all_spaces_are_created_equal_c54f27cd05c2189f8147cc6f5deb2e56}
