@@ -12,7 +12,7 @@ When you first open the problem it gives you a .txt file to download where the f
 
 Opening the file with notepad gets you a list of random words that seem to have nothing in common. However, given the problem is Forensics we're likely dealing with steganography. The information then should be hidden in the words somehow.
 
-![Alt text](https://github.com/RhysticStudies/Writeups/blob/main/ICTF/Screenshot2.png)
+![Alt text](https://github.com/RhysticStudies/Writeups/blob/main//PicoCTF/WhitePages/Screenshot2.png)
 
 Under further examination you can see that there is a relationship between the length of the words all of them being 1-16 letters in length. So by reading in the file and taking the lengths of the words and treating them as hex you can find the message.
 
